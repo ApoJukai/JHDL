@@ -1,0 +1,4 @@
+Optional personalization:
+1. Add profile2.png to this public folder. The app falls back to profile-placeholder.svg.
+2. Add John-Harley-De-Leon-CV.pdf to enable the CV download.
+3. Replace the LinkedIn placeholder in src/App.jsx.
